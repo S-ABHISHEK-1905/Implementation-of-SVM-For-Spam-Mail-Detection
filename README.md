@@ -28,8 +28,8 @@ End the program.
 ```
 
 Program to implement the SVM For Spam Mail Detection..
-Developed by: B.PAVIZHI
-RegisterNumber:  212221230077
+Developed by: S.ABHISHEK
+RegisterNumber:  212221230002
 
 
 import pandas as pd
